@@ -2,24 +2,24 @@ body {
     background-color: black;
     color: greenyellow;
     font-family: Courier;
-    font-size: 14pt;
+    /*font-size: 14pt;*/
 }
 
 h3 {
     font-family: Courier;
-    font-size: 16pt;
+    /*font-size: 16pt;*/
     font-weight: bold;
     text-decoration: underline;
 }
 
 p {
     font-family: Courier;
-    font-size: 14pt;
+    /*font-size: 14pt;*/
 }
 
 td {
     font-family: Courier;
-    font-size: 14pt;
+    /*font-size: 14pt;*/
 }
 
 a {
@@ -30,7 +30,7 @@ a {
 
 div {
     font-family: Courier;
-    font-size: 14pt;
+    /*font-size: 14pt;*/
 }
 
 hr {color: greenyellow;}
