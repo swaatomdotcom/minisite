@@ -34,7 +34,7 @@ div {
 }
 
 hr {color: greenyellow;}
-table.table_container {width: 1280px;}
+table.table_container {width: 800px;}
 table.table_header_footer {
 	border-top-color: greenyellow; border-top-style: solid; border-top-width:2px;
 	border-bottom-color: greenyellow; border-bottom-style: solid; border-bottom-width:2px;
